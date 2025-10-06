@@ -23,7 +23,7 @@
 | ------------- | ------------- |
 
 <br />
-<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
+<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://github.com/vensoeng/My-photo/blob/main/vensoeng/github_vensoeng_brand_small.png?raw=true" /></a></p>
 
 
 <img alt="Vensoeng view count" width="20%" src="https://komarev.com/ghpvc/?username=vensoeng&color=ff69b4&style=for-the-badge" />
