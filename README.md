@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Vensoeng!
 🌐 I enjoy blending technology and creativity, especially through:<br />
-📹 And yes — I'm a content creator too!<br />
 🎬 Video editing and production<br />
 🎨 Poster and visual design<br />
 💼 Building personal web portfolios<br />
