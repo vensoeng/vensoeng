@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋 I'm Vensoeng!
+🎓 I'm a final year Computer Science student at RUPP (Royal University of Phnom Penh). <br />
+🧑‍🏫 Former Frontend Development & Data Analytics Instructor at ISTAD.<br />
+💼 Previously a Frontend Developer at AsurRaa.<br />
+🌐 Also working as an online frontend developer instructor.<br />
+📹 And yes — I'm a content creator too!
+<br />
+✨ I’m passionate about learning, building, and sharing.<br />
+💡 I love exploring new tech, teaching others, and creating cool things
+<br />
 
-<!--
-**vensoeng/vensoeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Here are some ideas to get you started:
+| <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=vensoeng&theme=buefy&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Jessica's github stats" /></a> | <a href="" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vensoeng&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
+
+
+<img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
+<br/>
