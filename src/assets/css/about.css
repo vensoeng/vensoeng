@@ -1,0 +1,169 @@
+.about{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.about .ab-box{
+    align-items: inherit;
+}
+.about .row-img{
+    width: calc(100% - 610px);
+    position: relative;
+}
+.about .row-img .ri-box{
+    height: 100%;
+}
+.about .row-img .ri-box::before,
+.about .row-img .ri-box::after{
+    position: absolute;
+    content: '';
+    inset: 0rem;
+    left: -1rem;
+    bottom: -1rem;
+}
+.about .row-img .ri-box::before{
+    background: linear-gradient(91deg, var(--sg-bglight) 0%, transparent);
+}
+.about .row-img .ri-box::after{
+    background: linear-gradient(358deg, var(--sg-bglight) 0%, transparent);
+}
+
+.about .row-img .ri-con{
+    height: 100%;
+    overflow: hidden;
+    border-radius: 0.8rem 0.8rem 0.8rem 0rem;
+}
+.about .row-text{
+    width: 550px;
+    max-width: 100%;
+}
+.about .rth-box{
+    height: 40px;
+}
+.about .rth-box .icon{
+    width: 1.8rem;
+    rotate: -15deg;
+    border-radius: 0rem;
+    overflow: initial;
+}
+.about .rth-box h2{
+    font-size: 1.3rem;
+    margin: 0rem 0.6rem;
+    margin-left: 1rem;
+    font-weight: 800;
+}
+.about .rth-box .icon svg{
+    width: 100%;
+}
+.about .rth-box path{
+    fill: var(--sg-color-brand);
+    stroke: var(--sg-border-00);
+}
+.about .rt-box > h2{
+    font-size: 2rem;
+    margin: 0.8rem auto;
+    font-weight: 800;
+    line-height: 1.5;
+}
+.about .rt-box > blockquote{
+    display: block;
+    margin: 2rem 0rem;
+    margin-top: 0rem;
+}
+.about .rt-box > blockquote p{
+    font-size: 1rem;
+    line-height: 1.8;
+    font-weight: 500;
+    color: rgb(82 82 91 / 100);
+}
+.about .rt-box .btn{
+    height: 2.8rem;
+    color: var(--sg-bglight);
+    border-radius: 50rem;
+    font-size: 1rem;
+    padding: 0rem 0.8rem;
+    background: var(--sg-color-brand);
+}
+.about .rt-box .btn svg *{
+    margin-left: 0.1rem;
+    stroke: var(--sg-bglight);
+}
+/* ------------school-------------------- */
+.school{
+    width: 100%;
+    max-width: 1000px;
+    margin: 4rem auto;
+    position: relative;
+    z-index: 5;
+}
+.school .sh-box{
+    align-items: flex-end;
+    margin: 0rem 0.5rem;
+}
+.school .row{
+    width: 600px;
+}
+.school .row ul{
+    align-items: inherit;
+    margin: 0.5rem auto;
+}
+.school .row li{
+    border-radius: 0.5rem;
+    align-items: flex-start;
+    min-height: 100px;
+    height: initial;
+    width: calc(100% / 2.03);
+    border: 1px solid var(--sg-border-00);
+}
+.school .row li .lbox{
+    padding: 0.8rem;
+}
+.school .row li .lbox .icon{
+    min-width: 2rem;
+    min-height: 2.8rem;
+}
+.school .row li .lbox .icon svg{
+    width: 1.6rem;
+}
+.school .row li .lbox p{
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.6;
+    color: rgb(82 82 91 / 100);
+}
+.school .row ul:last-child li{
+    width: initial;
+    min-height: initial;
+}
+.school .row ul:last-child li .lbox .icon{
+    margin-right: 0.5rem;
+}
+.school .main{
+    width: 300px;
+}
+.school .main blockquote p{
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: rgb(82 82 91 / 100);
+}
+.school .main .mlogo{
+    margin-top: 1.5rem;
+}
+.school .main .mlg-box .icon{
+    min-width: 45px;
+    min-height: 45px;
+    border-radius: 0.5rem;
+    margin-right: 0.7rem;
+    background: var(--sg-color-brand);
+}
+.school .main .mlg-box .icon img{
+    scale: 1.02;
+}
+.school .main .mlg-box .text h2{
+    font-size: 0.8rem;
+}
+.school .main .mlg-box .text p{
+    font-size: 0.8rem;
+    color: rgb(82 82 91 / 100);
+    padding-top: 0.3rem;
+}

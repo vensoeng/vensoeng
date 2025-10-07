@@ -1,0 +1,32 @@
+/* ------------------------------------this is footer of webpage  */
+.web-footer{
+    width: 100%;
+    margin: 0 auto;
+    padding: 3rem 0rem;
+    color: var(--sg-bglight);
+    background: var(--sg-button-blueHover);
+}
+.web-footer .footer-box{
+    max-width: 1333px;
+    margin: 0 auto;
+}
+.web-footer .button .icon{
+    padding: 0rem 1.1rem;
+    border-radius: 0.4rem;
+    color: var(--sg-bglight);
+    /* border: 2px solid var(--sg-border-00); */
+    background: var(--colorText-00);
+}
+.web-footer .button p{
+    font-size: 0.8rem;
+    margin-top: 0.2rem;
+}
+@media only screen and (max-width: 1333px){
+    .web-footer .footer-box{
+        margin: 0 1rem;
+    }
+}
+/* --------------------------------------------------this is my story------------------------- */
+.my-story-body .box{
+    max-width: initial !important;
+}
