@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+### Hi there 👋 I'm Vensoeng!
+🌐 I enjoy blending technology and creativity, especially through:<br />
+🎬 Video editing and production<br />
+🎨 Poster and visual design<br />
+💼 Building personal web portfolios<br />
+📄 Creating professional CV templates<br />
+🛍️ Developing small business systems (POS)<br />
+🛠️ Troubleshooting and solving IT issues
+<br />
+✨ I’m passionate about learning, building, and sharing.<br />
+💡 Above all, I love sharing IT knowledge to inspire learning and growth.
+<br />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 💻 Languages and Tools:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![flutter](https://img.shields.io/badge/flutter-%23007ACC.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![php](https://img.shields.io/badge/php-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white)
+![xampp](https://img.shields.io/badge/XAMPP-%23007ACC.svg?style=for-the-badge&logo=xampp&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
+![python](https://img.shields.io/badge/Python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## Available Scripts
+| <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=vensoeng&theme=buefy&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Jessica's github stats" /></a> | <a href="" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vensoeng&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-In the project directory, you can run:
+<br />
+<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://github.com/vensoeng/My-photo/blob/main/vensoeng/github_vensoeng_brand_small.png?raw=true" /></a></p>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img alt="Vensoeng view count" width="20%" src="https://komarev.com/ghpvc/?username=vensoeng&color=ff69b4&style=for-the-badge" />
+<br/>
