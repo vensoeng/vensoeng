@@ -19,9 +19,6 @@
 ![React.js](https://img.shields.io/badge/React.js-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
 ![python](https://img.shields.io/badge/Python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
 
-| <a target="_blank" href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=vensoeng&theme=buefy&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Jessica's github stats" /></a> | <a href="" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vensoeng&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 <br />
 <p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://github.com/vensoeng/My-photo/blob/main/vensoeng/github_vensoeng_brand_small.png?raw=true" /></a></p>
 
