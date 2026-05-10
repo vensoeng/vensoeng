@@ -18,7 +18,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23007ACC.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 ![xampp](https://img.shields.io/badge/XAMPP-%23007ACC.svg?style=for-the-badge&logo=xampp&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node-%23007ACC.svg?style=for-the-badge&logo=node&logoColor=white)
+![nodejs](https://img.shields.io/badge/nodejs-%23007ACC.svg?style=for-the-badge&logo=nodejs&logoColor=white)
 ![python](https://img.shields.io/badge/Python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br />
