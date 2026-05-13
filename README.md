@@ -22,7 +22,7 @@
 ![python](https://img.shields.io/badge/Python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br />
-<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://github.com/vensoeng/My-photo/blob/main/vensoeng/vensoeng_logo_update_21926_3.png?raw=true" /></a></p>
+<p align="center"><a href="https://github.com/vensoeng" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://github.com/vensoeng/My-photo/blob/main/vensoeng/vensoeng_logo_update_21926_3.png?raw=true" /></a></p>
 
 
 <img alt="Vensoeng view count" width="20%" src="https://komarev.com/ghpvc/?username=vensoeng&color=ff69b4&style=for-the-badge" />
